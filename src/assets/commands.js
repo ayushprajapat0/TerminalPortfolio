@@ -57,8 +57,13 @@ const commands = {
     "2.\u2002WanderLust",
     "\u2002 \u2002A full-stack hotel listing web application allows users to create, update, and delete listings and reviews.",
     "\u2002 \u2002Technologies: Experss, Ejs, BootStrap, MongoDB, JS ",
-   '&nbsp;&nbsp;&nbsp;&nbsp;GitHub : <a href="https://github.com/ayushprajapat0/wanderlust" target="_blank" style="color:#539bf5;">github.com/ayushprajapat0/wanderlust</a>'
+   '&nbsp;&nbsp;&nbsp;&nbsp;GitHub : <a href="https://github.com/ayushprajapat0/wanderlust" target="_blank" style="color:#539bf5;">github.com/ayushprajapat0/wanderlust</a>',
 
+   '<br>',
+    "2.\u2002Terminal Portfolio",
+    "\u2002 \u2002A React-based interactive CLI-style portfolio with animated commands and dynamic responses.",
+    "\u2002 \u2002Technologies: React, Vite, TailwindCSS",
+   '&nbsp;&nbsp;&nbsp;&nbsp;GitHub : <a href="https://github.com/ayushprajapat0/TerminalPortfolio/" target="_blank" style="color:#539bf5;">github.com/ayushprajapat0/TerminalPortfolio/</a>'
   ],
   skills:[
     "💻 Technical Skills:",
