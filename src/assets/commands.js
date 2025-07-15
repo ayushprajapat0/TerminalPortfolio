@@ -2,7 +2,8 @@ const commands = {
   welcome: [
     "Hi, I'm Ayush Prajapat, Web Developer & CS Student.",
     "Welcome to my interactive portfolio terminal!",
-    "Type 'help' to see available commands."
+    "Type 'help' to see available commands.",
+    "Press 'Escape' to complete the current command."
   ],
   help: [
   "📜 Available Commands:",
