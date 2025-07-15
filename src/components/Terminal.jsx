@@ -60,9 +60,9 @@ const Terminal = () => {
         </div>
       ))}
 
-      {!isTyping && (
-        <form onSubmit={handleCommand}>
-          <span className="text-[#3fb950]">ayush@portfolio:~$ </span>
+      { (
+        <form className='overflow-y-visible' onSubmit={handleCommand}>
+          <span className="text-[#3fb950]">ayush@prajapat:~$ </span>
           <input
             className="bg-transparent border-none outline-none text-[#539bf5]"
             value={input}
